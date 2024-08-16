@@ -3,7 +3,7 @@
 <b>Languages</b>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
   </a>
 </div>
 <br/>
