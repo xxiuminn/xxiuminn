@@ -3,10 +3,11 @@
 <b>Languages</b>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
+     <img src="https://skillicons.dev/icons?i=js,ts,py,html,css" />
   </a>
 </div>
 <br/>
+
 <b>Frameworks & Libraries</b>
 <div>
  <a href="https://skillicons.dev">
@@ -14,12 +15,15 @@
   </a>
 </div>
 <br/>
+
 <b>Databases</b>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+     <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   </a>
 </div>
+<br/>
+
 
 <!---
 xxiuminn/xxiuminn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
