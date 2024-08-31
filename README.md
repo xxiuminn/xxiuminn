@@ -1,4 +1,6 @@
 👋 Hi, I’m Xiu Min!
+<br/>
+Visit my portfolio here: <a href="https://howxiumin.netlify.app/about?utm_source=github&utm_medium=referral&utm_campaign=traffic">Link</a>
 
 <b>Languages</b>
 <div>
