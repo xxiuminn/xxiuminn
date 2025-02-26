@@ -13,7 +13,7 @@ Visit my portfolio here: <a href="https://howxiumin.netlify.app/about?utm_source
 <b>Frameworks & Libraries</b>
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,prisma,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,prisma,tailwind,bootstrap" />
   </a>
 </div>
 <br/>
